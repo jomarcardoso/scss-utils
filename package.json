@@ -1,0 +1,12 @@
+{
+  "name": "scss-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jomarcardoso/scss-utils.git",
+  "author": "jomar.cardoso <jomar.cardoso@cwi.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
